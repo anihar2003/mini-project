@@ -1,6 +1,17 @@
-#Real-time Chat Application using PHP, JavaScript, CSS, HTML, MySQL
-• Developed a chat application: Created a platform for real-time communication with functionalitiessuch as one-on-one 
-and global chat.
-• User authentication and management: Implemented a login system and an admin page for managing user accounts.
-• Interactive features: Enabled real-time messaging with chat history for both individual and group conversations.
-• Collaborative project: Worked as part of a team to design and build the application for a university mini project.
+Real-time Chat Application
+A fully functional chat application built using PHP, JavaScript, CSS, HTML, and MySQL for a university mini project.
+
+Features
+Real-time communication
+Supports one-on-one chats and global group chats for seamless communication between users.
+
+User Authentication and Management
+Implemented a login system to authenticate users, along with an admin page for managing accounts and user data.
+
+Interactive Messaging
+Real-time messaging with chat history for both individual and group conversations, ensuring users can view past messages.
+
+Technologies Used
+Frontend: HTML, CSS, JavaScript
+Backend: PHP
+Database: MySQL
