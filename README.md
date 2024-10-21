@@ -16,6 +16,6 @@ A fully functional chat application built using PHP, JavaScript, CSS, HTML, and 
 ## Technologies Used
 
 - **Frontend:** HTML, CSS, JavaScript
-- **Backend:** PHP
+- **Backend:** PHP,Ajax
 - **Database:** MySQL
 
