@@ -1,6 +1,6 @@
 # Real-time Chat Application
 
-A chat application built using PHP, JavaScript, CSS, HTML, and MySQL.
+A chat application built using PHP, JavaScript, CSS, HTML,Ajax and MySQL.
 
 ## Features
 
